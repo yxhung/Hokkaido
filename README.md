@@ -12,8 +12,8 @@
 ### 虎航
 
 - 每週二班 - 二/六
-- 去程 IT238 台北 06:15 旭川 11:20
-- 回程 IT239 旭川 12:10 台北 15:50
+- 去程 IT238 台北 07:45 旭川 12:50
+- 回程 IT239 旭川 13:40 台北 17:20
 
 ### 酷航
 - 每週四班 - 二/四/六/日
@@ -111,3 +111,13 @@ yhH@4921
 4. Li, Yan-Ting
 5. LI, Jung-Chiuan
 6. CHOU,HSIU-FENG
+
+# Budget
+| Name            | Self   | Sponser 1 | Sponser 2 | Sponser3  |
+| --------------- | ------ | --------- | --------- | --------- |
+| Hung Ya Hsuan   | 35,000 |           |           |           |
+| Hung, Wu Chuan  | 10,000 | YH 5,000  | YC 10,000 | BA 10,000 |
+| Chen, Hsiu Lan  | 10,000 | YH 5,000  | YC 10,000 | BA 10,000 |
+| Li, Yan-Ting    | 35,000 |           |           |           |
+| LI, Jung-Chiuan | 10,000 | YT 10,000 | MR 15,000 |           |
+| CHOU,HSIU-FENG  | 10,000 | TY 5,000  | MR 20,000 |           |
